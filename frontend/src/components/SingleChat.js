@@ -18,7 +18,7 @@ import "./styles.css";
 import ScrollableChat from "./ScrollableChat";
 import io from "socket.io-client";
 
-const ENDPOINT = "https://rock-the-chat.herokuapp.com/";
+const ENDPOINT = "https://mern-rock-the-chat.herokuapp.com/";
 
 var socket, selectedChatCompare;
 
